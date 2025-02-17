@@ -47,7 +47,7 @@
 
 <p align="center">
   <a href="https://github.com/septwong">
-    <img  width="100%" height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=septwong&theme=onedark">
+    <img  width="100%" height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=septwong&theme=onedark"/>
     <!-- <img width="48%" height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=septwong&show_icons=true&include_all_commits=true&count_private=true&theme=onedark" />
     <img width="48%" height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=septwong&layout=compact&exclude_lang=java+r&theme=onedark" /> -->
   </a>
@@ -59,6 +59,22 @@
     <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=septwong&theme=onedark&utcOffset=8">
   </a>
 </p>
+
+<!--- stats (start) -->
+<!-- <p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=septwong&theme=onedark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=septwong&theme=onedark&hide_border=false" /> 
+</td>
+<td width="50%" align="center">
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=septwong&theme=onedark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  </td>
+</tr>
+</table> -->
+<!--- stats (end) -->
 
 <!--
 [![Sept's github activity graph](https://activity-graph.herokuapp.com/graph?username=septwong&theme=xcode)](https://github.com/septwong)
