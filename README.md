@@ -106,5 +106,5 @@
 ### 🤝🏻 Connect
 
 <a href="https://wx.mail.qq.com/">
-  <img src="https://img.shields.io/badge/%E9%82%AE%E7%AE%B1-septwong@foxmail.com-green"/>
+  <img src="https://img.shields.io/badge/%E9%82%AE%E7%AE%B1-septwong@foxmail.com-green" height="28"/>
 </a>
