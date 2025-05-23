@@ -53,12 +53,12 @@
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/septwong">
    <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=septwong&theme=onedark">
     <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=septwong&theme=onedark&utcOffset=8">
   </a>
-</p>
+</p> -->
 
 <!--- stats (start) -->
 <!-- <p align="center">
