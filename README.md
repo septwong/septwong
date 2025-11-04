@@ -89,8 +89,8 @@
     <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=septwong&repo=markdown-syntax&theme=onedark&bg_color=0d1117&hide_border=true" /></a>
   <a href="https://github.com/septwong/vscode-webstorm-theme">
     <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=septwong&repo=vscode-webstorm-theme&theme=onedark&bg_color=0d1117&hide_border=true" /></a>
-  <a href="https://github.com/septwong/git-commit-message">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=septwong&repo=git-commit-message&theme=onedark&bg_color=0d1117&hide_border=true" /></a>
+  <a href="https://github.com/septwong/vscode-focus-theme">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=septwong&repo=vscode-focus-theme&theme=onedark&bg_color=0d1117&hide_border=true" /></a>
 </div>
 
 <img width="100%" src="./profile-snake-contrib/github-contribution-grid-snake.svg" />
